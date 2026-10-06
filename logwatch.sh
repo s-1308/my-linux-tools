@@ -1,4 +1,4 @@
-#!/bin/bash
+# conflict version
 
 LOGFILE="/var/log/syslog"
 OUTFILE="alerts.log"

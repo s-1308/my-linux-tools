@@ -1,4 +1,4 @@
-#!/bin/bash
+# main version
 
 LOGFILE="/var/log/syslog"
 OUTFILE="alerts.log"

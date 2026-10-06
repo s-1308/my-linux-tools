@@ -10,3 +10,4 @@ if echo "$LAST_LINE" | grep -qi "error\|warning"; then
 fi
 # version 2
 # version 3
+# version 4

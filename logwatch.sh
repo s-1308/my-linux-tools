@@ -9,3 +9,4 @@ if echo "$LAST_LINE" | grep -qi "error\|warning"; then
     echo "$(date '+%Y-%m-%d %H:%M:%S') : $LAST_LINE" >> $OUTFILE
 fi
 # version 2
+# version 3
